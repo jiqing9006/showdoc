@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/aliyuncs/oss-sdk-php" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpoffice/phpexcel" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/qiniu/examples" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/qiniu/src" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/qiniu/tests" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/rongcloud/jsonsource" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/rongcloud/methods" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-angular" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-captcha" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-helper" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-image" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-installer" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-migration" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-mongo" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-queue" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-testing" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-worker" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/workerman/workerman" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/aliyuncs/oss-sdk-php" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpoffice/phpexcel" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/qiniu/examples" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/qiniu/src" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/qiniu/tests" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/rongcloud/jsonsource" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/rongcloud/methods" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-angular" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-captcha" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-helper" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-image" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-installer" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-migration" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-mongo" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-queue" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-testing" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/topthink/think-worker" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../yltadmin/vendor/workerman/workerman" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
