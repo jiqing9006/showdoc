@@ -1,6 +1,6 @@
 ﻿## 中文版教程：https://www.showdoc.cc/help 
 
-### What is ShowDoc ?
+### 什么是 ShowDoc ?
 
 Whenever we take over a module or project which has been developed by other people, we always feel crazy watching at those codes without notes. Where is the document?! Where is the document?! **Show me the doc !!**
 
